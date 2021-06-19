@@ -1,0 +1,78 @@
+body {
+  background-color: aliceblue;
+}
+
+h4 {
+  text-align: center;
+  font-family: Helvetica, Arial, sans-serif;
+  letter-spacing: 2px;
+  font-weight: bolder;
+  font-size: 60px;
+  color: #183863;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 20px;
+  color: #183863;
+  font-weight: normal;
+}
+
+.latestB {
+  text-align: left;
+}
+
+h5 {
+  background-color: aliceblue;
+  text-transform: uppercase;
+  margin-top: 2em;
+  padding: 0.5em;
+  margin-left: 1em;
+  font-size: 1.3em;
+}
+
+p {
+  color: whitesmoke;
+  margin-left: 3em;
+  font-size: 20px;
+}
+
+p.val {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+p.info {
+  margin-left: 4em;
+  margin-bottom: 0em;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: azure;
+}
+
+.card-body {
+  -webkit-transform: translate(0%, 15%);
+          transform: translate(0%, 15%);
+  border: 3px solid #183863;
+  background-color: #183863;
+  border-radius: 1em;
+}
+
+section {
+  margin-top: 12em;
+  padding-top: 0.3em;
+  background-color: #183863;
+}
+
+hr.new {
+  color: aliceblue;
+}
+
+nav {
+  background-color: white;
+}
+/*# sourceMappingURL=App.css.map */
