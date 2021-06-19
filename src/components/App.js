@@ -35,7 +35,7 @@ class App extends Component {
     // create an array for storing the blocks
     let blocks = []
     // iterate a loop to fetch the required number of blocks(in our case =10)
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 20; i++) {
       block = await web3.eth.getBlock(latest.number - i)
       console.log(block)
       blocks.push(block)
